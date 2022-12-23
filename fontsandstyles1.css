@@ -1,0 +1,30 @@
+h1 {
+  font-family:  sans-serif;
+  font-weight: 900;
+}
+
+p {
+  font-family: Montserrat, sans serif;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+label {
+  font-family: Montserrat,sans-serif;
+}
+
+hr {
+  height: 1px;
+  border: none;
+  width: 85%;
+  background-color: orange;
+}
